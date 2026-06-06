@@ -76,11 +76,11 @@ Successfully tracked players, referees, and football across video frames while g
 ```text
 project/
 │
-├── detection.py
-├── tracking.py
-├── speed_estimator.py
-├── camera_motion.py
-├── team_classifier.py
+├── yolo_inference.py
+├── best(1).pt
+├── last(1).pt
+├── estimator.py
+├── player_ball_assigner.py
 ├── main.py
 └── README.md
 ```
