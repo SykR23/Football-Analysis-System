@@ -1,5 +1,4 @@
 # Football-Analysis-System
-# Football Analysis System
 
 ## Overview
 
